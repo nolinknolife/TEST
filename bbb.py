@@ -2,4 +2,6 @@ import numpy as np
 
 #print(c)
 
-#ブランチpochi/a001で変更
+#ﾆ置ﾆ停ｰﾆ停愴蛋pochi/a001窶堙�窶｢ﾃ渉更
+
+#dddd
