@@ -4,3 +4,5 @@
 #add none AAAA
 
 #bbb
+
+#チェックアウトした直後に追加
