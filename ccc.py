@@ -1,3 +1,4 @@
+import numpy as np
 #add ccc.py at web
 
 
@@ -7,3 +8,5 @@
 
 #チェックアウトした直後に追加　githubで編集する
 #追加    88888
+
+print(c)
