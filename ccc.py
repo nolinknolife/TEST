@@ -11,3 +11,6 @@ import numpy as np
 
 c = np.array([1,2,3])
 print(c)
+
+d = np.array([10,11,12])
+print(d)
