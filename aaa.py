@@ -14,3 +14,5 @@ plt.plot(c)
 
 
 #edit at branch pochi/ a master
+
+#add comment as k
